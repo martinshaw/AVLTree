@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\AVL_121216\AVL_121216\bin\Debug\AVL_121216.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\AVL_121216\AVL_121216\bin\Debug\AVL_121216.exe
+c:\users\martin\documents\visual studio 2015\Projects\AVL_121216\AVL_121216\bin\Debug\AVL_121216.pdb
+c:\users\martin\documents\visual studio 2015\Projects\AVL_121216\AVL_121216\obj\Debug\AVL_121216.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\AVL_121216\AVL_121216\obj\Debug\AVL_121216.exe
+c:\users\martin\documents\visual studio 2015\Projects\AVL_121216\AVL_121216\obj\Debug\AVL_121216.pdb
